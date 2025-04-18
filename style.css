@@ -1,0 +1,31 @@
+section {/* Estilo para a seção */
+    background-color:  #FFF0D9;/* Cor de fundo da seção */
+    border-radius: 5%;/* Bordas arredondadas da seção */
+    display: flex; /* Define o layout como flexível */
+    justify-content: space-around; /* Alinha os itens horizontalmente com espaço ao redor */
+    align-items: center; /* Alinha os itens no centro verticalmente */
+    margin: 70% 10%;/* Adiciona uma margem de 1% ao redor da seção */
+    padding-left: 5px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder; /* Define o peso da fonte como mais grosso */
+    font-size: 2.5em; /
+}
+p {
+    font-family: Arial, Helvetica, sans-serif; /* Define a fonte do texto */
+}
+input {
+    padding: 10px 60px; /* Adiciona preenchimento interno ao campo de entrada */
+    border-radius: 15px ;/* Bordas arredondadas do campo de entrada */
+    border: none;/* Remove a borda padrão do campo de entrada */
+}
+button {/* Estilo para o botão */
+    padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
+    background-color: hsl(29, 95%, 57%); /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    font-weight: bold; /* Define o peso da fonte como negrito */
+    border-radius: 15px; /* Bordas arredondadas do botão */
+    border: none;/* Remove a borda padrão do botão */
+
+}
